@@ -1,4 +1,4 @@
-/* estrutura de repetição - repetição contavél (for)*/
+/* estrutura de repetiÃ§Ã£o - repetiÃ§Ã£o contavÃ©l (for)*/
 #include <iostream>
 using namespace std;
 
