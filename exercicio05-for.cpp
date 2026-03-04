@@ -1,3 +1,6 @@
+/* elabore um programa que soliite um número inteiro N e, 
+em seguida, calcule e imprima a soma dos numeros inteiros positivos*/
+
 #include <iostream>
 using namespace std;
 
@@ -15,4 +18,3 @@ int main() {
 
     return 0;
 }
-
